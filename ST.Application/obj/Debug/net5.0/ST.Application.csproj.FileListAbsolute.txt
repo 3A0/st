@@ -1,0 +1,17 @@
+C:\repo\AP\ST.Application\bin\Debug\net5.0\ST.Application.deps.json
+C:\repo\AP\ST.Application\bin\Debug\net5.0\ST.Application.dll
+C:\repo\AP\ST.Application\bin\Debug\net5.0\ref\ST.Application.dll
+C:\repo\AP\ST.Application\bin\Debug\net5.0\ST.Application.pdb
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.AssemblyInfoInputs.cache
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.AssemblyInfo.cs
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.csproj.CoreCompileInputs.cache
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.dll
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ref\ST.Application.dll
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.pdb
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.csprojAssemblyReference.cache
+C:\repo\AP\ST.Application\bin\Debug\net5.0\ST.Core.dll
+C:\repo\AP\ST.Application\bin\Debug\net5.0\ST.Core.pdb
+C:\repo\AP\ST.Application\obj\Debug\net5.0\ST.Application.csproj.CopyComplete
+C:\repo\AP\ST.Application\bin\Debug\net5.0\STAPI.Infrastructure.dll
+C:\repo\AP\ST.Application\bin\Debug\net5.0\STAPI.Infrastructure.pdb

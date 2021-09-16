@@ -1,0 +1,15 @@
+C:\repo\AP\STAPI.Infrastructure\bin\Debug\net5.0\STAPI.Infrastructure.deps.json
+C:\repo\AP\STAPI.Infrastructure\bin\Debug\net5.0\STAPI.Infrastructure.dll
+C:\repo\AP\STAPI.Infrastructure\bin\Debug\net5.0\ref\STAPI.Infrastructure.dll
+C:\repo\AP\STAPI.Infrastructure\bin\Debug\net5.0\STAPI.Infrastructure.pdb
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.csprojAssemblyReference.cache
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.AssemblyInfo.cs
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.dll
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\ref\STAPI.Infrastructure.dll
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.pdb
+C:\repo\AP\STAPI.Infrastructure\bin\Debug\net5.0\ST.Core.dll
+C:\repo\AP\STAPI.Infrastructure\bin\Debug\net5.0\ST.Core.pdb
+C:\repo\AP\STAPI.Infrastructure\obj\Debug\net5.0\STAPI.Infrastructure.csproj.CopyComplete

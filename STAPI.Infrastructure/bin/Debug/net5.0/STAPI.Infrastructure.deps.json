@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "STAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ST.Core": "1.0.0"
+        },
+        "runtime": {
+          "STAPI.Infrastructure.dll": {}
+        }
+      },
+      "ST.Core/1.0.0": {
+        "runtime": {
+          "ST.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ST.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

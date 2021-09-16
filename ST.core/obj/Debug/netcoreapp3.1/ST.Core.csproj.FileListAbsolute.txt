@@ -1,0 +1,9 @@
+C:\repo\AP\ST.core\bin\Debug\netcoreapp3.1\ST.Core.deps.json
+C:\repo\AP\ST.core\bin\Debug\netcoreapp3.1\ST.Core.dll
+C:\repo\AP\ST.core\bin\Debug\netcoreapp3.1\ST.Core.pdb
+C:\repo\AP\ST.core\obj\Debug\netcoreapp3.1\ST.Core.csprojAssemblyReference.cache
+C:\repo\AP\ST.core\obj\Debug\netcoreapp3.1\ST.Core.AssemblyInfoInputs.cache
+C:\repo\AP\ST.core\obj\Debug\netcoreapp3.1\ST.Core.AssemblyInfo.cs
+C:\repo\AP\ST.core\obj\Debug\netcoreapp3.1\ST.Core.csproj.CoreCompileInputs.cache
+C:\repo\AP\ST.core\obj\Debug\netcoreapp3.1\ST.Core.dll
+C:\repo\AP\ST.core\obj\Debug\netcoreapp3.1\ST.Core.pdb
